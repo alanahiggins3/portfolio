@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aboutwebsites on Alana Higgins</title>
+    <link>/aboutwebsite/</link>
+    <description>Recent content in Aboutwebsites on Alana Higgins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    
+	<atom:link href="/aboutwebsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Built This Website in R Studio</title>
+      <link>/aboutwebsite/aboutwebsite/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>/aboutwebsite/aboutwebsite/</guid>
+      <description>blah</description>
+    </item>
+    
+  </channel>
+</rss>

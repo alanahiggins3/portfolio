@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Alana Higgins"
 theme = "mediumish-gohugo-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -13,14 +13,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "Projects"
+    url = "/projects/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/alana-higgins-2019/"
+[[menu.main]]
+    name = "How I Build This Website"
+    url = "/aboutwebsite/"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "A digital portfolio of environmental geospatial and remote sensing work."
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -33,10 +36,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
+    
+[params.logo]
+  url = "initials.png"
+  width = 50
+  height = 50
+  alt = "Logo"
 

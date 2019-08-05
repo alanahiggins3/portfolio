@@ -10,7 +10,7 @@ publishDir = "docs"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo.png"
+  logo = "/images/initials.png"
   description ="the clean blog!"
   #mailchimp = "you can provide a mailchimp-link here"
 

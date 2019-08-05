@@ -33,12 +33,13 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
+      <title>NASA DEVELOP Alaska Ecological Forecasting</title>
+      <link>/2015/01/01/nasa-develop-alaska-ecological-forecasting/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>/2015/01/01/nasa-develop-alaska-ecological-forecasting/</guid>
+      <description>During this ten week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, comuter science,data analysis, and of course, a passion for the environment.
+Our project aimed to analyze wetland inundation in the state of Alaska using synthetic arperture radar (SAR) and optical imagery from Sentinel-1 and Landsat 8 satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
     </item>
     
   </channel>
