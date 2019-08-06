@@ -1,59 +1,35 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Alana Higgins"
-theme = "parsa-hugo-personal-blog-theme"
+theme = "hugo-theme-cleanwhite"
 googleAnalytics = ""
 disqusShortname = ""
 paginate = 5 #frontpage pagination
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+[menu]
+  [[params.addtional_menus]]
+  title =  "about"
+  href =  "/top/about/"
+  image = "images/aesas.jpg"
+  
+  [[params.addtional_menus]]
+  title =  "resume"
+  href =  "/top/resume/"
+  
+  [[params.addtional_menus]]
+  title =  "how i built this website"
+  href =  "/top/aboutwebsite/"
+  
     
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/about/"
-  header_image = "aesas_test.jpg"
-  
-  [[params.addtional_menus]]
-  title =  "PROJECTS"
-  href =  "/projects/belizewater/"
-  
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "Projects"
-    url = "projects/"
-[[menu.main]]
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/alana-higgins-2019/"
-[[menu.main]]
-    name = "How I Build This Website"
-    url = "/aboutwebsite/"
-
-
-[params]
+[params]    
+header_image = "img/home.jpg"
 slogan = "A digital portfolio of environmental geospatial and remote sensing work."
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.12.0"
-    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
+
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
     MathJaxVersion = "2.7.5"
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
-
-[params.algolia]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-
-[params.logo]
-  url = "initials.png"
-  width = 50
-  height = 50
-  alt = "Logo"
 
