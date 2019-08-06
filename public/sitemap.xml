@@ -3,34 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/about/</loc>
+    <lastmod>2019-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <lastmod>2019-05-05T21:48:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/belizewater/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2019-05-05T21:48:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/post/belizewater/</loc>
+    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/top/aboutwebsite/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/aboutwebsite/</loc>
+    <loc>/top/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/alaskaecoii/</loc>
+    <loc>/post/soilmaps/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/alaskaecoii/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
@@ -40,11 +51,7 @@
   </url>
   
   <url>
-    <loc>/projects/soilmaps/</loc>
-  </url>
-  
-  <url>
-    <loc>/projects/lopezlake/</loc>
+    <loc>/post/lopezlake/</loc>
   </url>
   
   <url>
@@ -53,7 +60,7 @@
   </url>
   
   <url>
-    <loc>/projects/datadrivenpages/</loc>
+    <loc>/post/datadrivenpages/</loc>
   </url>
   
 </urlset>

@@ -1,20 +1,31 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Alana Higgins"
-theme = "mediumish-gohugo-theme"
+theme = "parsa-hugo-personal-blog-theme"
 googleAnalytics = ""
 disqusShortname = ""
+paginate = 5 #frontpage pagination
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
+    
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
+  header_image = "aesas_test.jpg"
+  
+  [[params.addtional_menus]]
+  title =  "PROJECTS"
+  href =  "/projects/belizewater/"
+  
 
 [[menu.main]]
     name = "About"
     url = "/about/"
 [[menu.main]]
     name = "Projects"
-    url = "/projects/"
+    url = "projects/"
 [[menu.main]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/alana-higgins-2019/"
@@ -22,9 +33,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "How I Build This Website"
     url = "/aboutwebsite/"
 
-[params]
-    description = "A digital portfolio of environmental geospatial and remote sensing work."
 
+[params]
+slogan = "A digital portfolio of environmental geospatial and remote sensing work."
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
     highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
@@ -36,7 +47,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
-    
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+
 [params.logo]
   url = "initials.png"
   width = 50

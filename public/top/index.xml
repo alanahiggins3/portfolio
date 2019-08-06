@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tops on Alana Higgins</title>
+    <link>/top/</link>
+    <description>Recent content in Tops on Alana Higgins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How I Built This Website in R Studio</title>
+      <link>/top/aboutwebsite/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/top/aboutwebsite/</guid>
+      <description>I created this website in RStudio using the Blogdown and Hugo packages. The code I wrote is available on Github. The theme used for this website is called, &amp;ldquo;Clean White&amp;rdquo; and was written by Huabing Zhao. It is available here</description>
+    </item>
+    
+  </channel>
+</rss>
