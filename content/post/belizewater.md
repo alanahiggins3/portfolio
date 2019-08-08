@@ -1,6 +1,6 @@
 ---
 date: "2016-12-30T21:49:57-07:00"
-title: NASA DEVLEOP Belize Water Resources
+title: NASA DEVELOP Belize Water Resources
 image: "images/Belizewebimage.png"
 type: "post"
 ---
