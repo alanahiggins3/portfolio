@@ -4,7 +4,7 @@ title = "Alana Higgins"
 theme = "hugo-theme-cleanwhite"
 googleAnalytics = ""
 disqusShortname = ""
-paginate = 5 #frontpage pagination
+paginate = 8 #frontpage pagination
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
