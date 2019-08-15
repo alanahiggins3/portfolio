@@ -1,4 +1,5 @@
 ---
+date: "2018-05-01T13:09:13-06:00"
 title: Lopez Lake Recreation Area Field Work and GIS Consulting
 image: "images/lopezlakeaerial.jpg"
 type: "post"

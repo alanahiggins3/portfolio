@@ -1,11 +1,11 @@
 ---
-date: "2015-01-01T13:09:13-06:00"
+date: "2018-11-01T13:09:13-06:00"
 title: Stormwater Runoff Assessment of Cerro Vista Apartment Complex
 image: "images/stormw.jpg"
 type: "post"
 ---
 **California Polytechnic State University, San Luis Obispo**  
-**May 2019**
+**December 2018**
 
 As an active member in my university's GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
 

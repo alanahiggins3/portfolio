@@ -1,5 +1,5 @@
 ---
-date: "2015-01-01T13:09:13-06:00"
+date: "2019-05-15T13:09:13-06:00"
 title: Freelance Geospatial Consulting for University Professor
 image: "images/ca_aerial.jpg"
 type: "post"

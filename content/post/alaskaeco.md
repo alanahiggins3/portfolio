@@ -1,5 +1,5 @@
 ---
-date: "2016-01-01T13:09:13-06:00"
+date: "2019-05-19T13:09:13-06:00"
 title: NASA DEVELOP Alaska Ecological Forecasting II
 image: "images/alaskawebimage.png"
 type: "post"

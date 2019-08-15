@@ -6,7 +6,7 @@
     <description>Recent content on Alana Higgins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 21:48:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About</title>
       <link>/post/about/</link>
-      <pubDate>Sun, 05 May 2019 21:48:51 -0700</pubDate>
+      <pubDate>Fri, 05 Jul 2019 21:48:51 -0700</pubDate>
       
       <guid>/post/about/</guid>
       <description>I was born and raised on the island of Oahu, Hawaii. After graduating from high school in 2015, I moved to the Central Coast of California to attend Cal Poly San Luis Obispo. I majored in Environmental Earth and Soil Science with an emphasis in geospatial technologies. Some of my other academic interests included geography, graphic design, and urban planning.
@@ -24,12 +24,70 @@ During my time at Cal Poly, I became part of the San Luis Obispo community.</des
     <item>
       <title>NASA DEVELOP Belize Water Resources</title>
       <link>/post/belizewater/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <pubDate>Wed, 03 Jul 2019 21:49:57 -0700</pubDate>
       
       <guid>/post/belizewater/</guid>
       <description>Jet Propulsion Laboratory, Pasadena CA
 June 2019 to August 2019
 During my second term with the NASA DEVELOP program, I was part of a Water Resources project. Over ten weeks, my team and I created a Google Earth Engine dashboard to analyze water quality parameters of the Belize Barrier Reef Reserve System in Central America. Our main objective was to support the environmental decision making efforts of our international partners, the Wildlife Conservation Society and the Coastal Zone Management Authority and Institute.</description>
+    </item>
+    
+    <item>
+      <title>NASA DEVELOP Alaska Ecological Forecasting II</title>
+      <link>/post/alaskaeco/</link>
+      <pubDate>Sun, 19 May 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/post/alaskaeco/</guid>
+      <description>Jet Propulsion Laboratory, Pasadena CA
+January 2019 to April 2019
+During this ten week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, comuter science, earth science, and data analysis.
+Our project idenitified wetland inundation in the state of Alaska using synthetic arperture radar (SAR) and optical imagery from Sentinel-1 MSI and Landsat 8 OLI satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
+    </item>
+    
+    <item>
+      <title>Freelance Geospatial Consulting for University Professor</title>
+      <link>/post/soilmaps/</link>
+      <pubDate>Wed, 15 May 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/post/soilmaps/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+May 2019
+As an active member in my university&amp;rsquo;s GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
+I was initially given paper maps with polygons drawn by hand deliniating soil type.</description>
+    </item>
+    
+    <item>
+      <title>Stormwater Runoff Assessment of Cerro Vista Apartment Complex</title>
+      <link>/post/stormwater/</link>
+      <pubDate>Thu, 01 Nov 2018 13:09:13 -0600</pubDate>
+      
+      <guid>/post/stormwater/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+December 2018
+As an active member in my university&amp;rsquo;s GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
+I was initially given paper maps with polygons drawn by hand deliniating soil type.</description>
+    </item>
+    
+    <item>
+      <title>Lopez Lake Recreation Area Field Work and GIS Consulting</title>
+      <link>/post/lopezlake/</link>
+      <pubDate>Tue, 01 May 2018 13:09:13 -0600</pubDate>
+      
+      <guid>/post/lopezlake/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+January 2018 to May 2018
+The Lopez Lake Recreation Area is a popular gathering place for outdoor enthusiasts on the Central Coast of California. For this project, a team of nine Cal Poly students, including myself, visited the site to conduct field work and collect GPS coordinates of all campsites and utility features in the park. We utilized the Trible Geo 7x GPS unit and Pathfinder software to collect and process the data.</description>
+    </item>
+    
+    <item>
+      <title>Utilizing Data Driven Pages for City Zoning</title>
+      <link>/post/datadrivenpages/</link>
+      <pubDate>Thu, 15 Feb 2018 13:09:13 -0600</pubDate>
+      
+      <guid>/post/datadrivenpages/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+February 2018
+Urbanized areas are often difficult to represent spatially as cities have high population densities and landuse can change frequently. Data Driven Pages is a useful tool in the ArcMap toolbox that allows users to break up the area of their city page by page. Each page represents one square unit of an entire city grid. By including an inset map, users can gauge where they are within the city for better context.</description>
     </item>
     
     <item>
@@ -58,64 +116,6 @@ LinkedIn | alanahiggins</description>
       
       <guid>/top/resume/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>NASA DEVELOP Alaska Ecological Forecasting II</title>
-      <link>/post/alaskaeco/</link>
-      <pubDate>Fri, 01 Jan 2016 13:09:13 -0600</pubDate>
-      
-      <guid>/post/alaskaeco/</guid>
-      <description>Jet Propulsion Laboratory, Pasadena CA
-January 2019 to April 2019
-During this ten week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, comuter science, earth science, and data analysis.
-Our project idenitified wetland inundation in the state of Alaska using synthetic arperture radar (SAR) and optical imagery from Sentinel-1 MSI and Landsat 8 OLI satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
-    </item>
-    
-    <item>
-      <title>Freelance Geospatial Consulting for University Professor</title>
-      <link>/post/soilmaps/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/post/soilmaps/</guid>
-      <description>California Polytechnic State University, San Luis Obispo
-May 2019
-As an active member in my university&amp;rsquo;s GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
-I was initially given paper maps with polygons drawn by hand deliniating soil type.</description>
-    </item>
-    
-    <item>
-      <title>Stormwater Runoff Assessment of Cerro Vista Apartment Complex</title>
-      <link>/post/stormwater/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/post/stormwater/</guid>
-      <description>California Polytechnic State University, San Luis Obispo
-May 2019
-As an active member in my university&amp;rsquo;s GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
-I was initially given paper maps with polygons drawn by hand deliniating soil type.</description>
-    </item>
-    
-    <item>
-      <title>Lopez Lake Recreation Area Field Work and GIS Consulting</title>
-      <link>/post/lopezlake/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lopezlake/</guid>
-      <description>California Polytechnic State University, San Luis Obispo
-January 2018 to May 2018
-The Lopez Lake Recreation Area is a popular gathering place for outdoor enthusiasts on the Central Coast of California. For this project, a team of nine Cal Poly students, including myself, visited the site to conduct field work and collect GPS coordinates of all campsites and utility features in the park. We utilized the Trible Geo 7x GPS unit and Pathfinder software to collect and process the data.</description>
-    </item>
-    
-    <item>
-      <title>Utilizing Data Driven Pages for City Zoning</title>
-      <link>/post/datadrivenpages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/datadrivenpages/</guid>
-      <description>California Polytechnic State University, San Luis Obispo
-February 2018
-Urbanized areas are often difficult to represent spatially as cities have high population densities and landuse can change frequently. Data Driven Pages is a useful tool in the ArcMap toolbox that allows users to break up the area of their city page by page. Each page represents one square unit of an entire city grid. By including an inset map, users can gauge where they are within the city for better context.</description>
     </item>
     
   </channel>

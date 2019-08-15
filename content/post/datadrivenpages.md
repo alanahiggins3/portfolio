@@ -1,4 +1,5 @@
 ---
+date: "2018-02-15T13:09:13-06:00"
 title: Utilizing Data Driven Pages for City Zoning
 image: "images/city.jpg"
 type: "post"
