@@ -4,8 +4,8 @@ title: NASA DEVELOP Belize Water Resources
 image: "images/Belizewebimage.png"
 type: "post"
 ---
-*Jet Propulsion Laboratory, Pasadena CA*  
-*June 2019 to August 2019*
+**Jet Propulsion Laboratory, Pasadena CA**  
+**June 2019 to August 2019**
 
 During my second term with the NASA DEVELOP program, I was part of a Water Resources project. Over ten weeks, my team and I created a Google Earth Engine dashboard to analyze water quality parameters of the Belize Barrier Reef Reserve System in Central America. Our main objective was to support the environmental decision making efforts of our international partners, the Wildlife Conservation Society and the Coastal Zone Management Authority and Institute.
 

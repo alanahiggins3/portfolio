@@ -4,8 +4,8 @@ title: NASA DEVELOP Alaska Ecological Forecasting II
 image: "images/alaskawebimage.png"
 type: "post"
 ---
-*Jet Propulsion Laboratory, Pasadena CA*  
-*January 2019 to April 2019*
+**Jet Propulsion Laboratory, Pasadena CA**  
+**January 2019 to April 2019**
 
 During this ten week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, comuter science, earth science, and data analysis.
 

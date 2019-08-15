@@ -1,7 +1,7 @@
 ---
 date: "2015-01-01T13:09:13-06:00"
-title: Freelance Geospatial Consulting for University Professor
-image: "images/ca_aerial.jpg"
+title: Stormwater Runoff Assessment of Cerro Vista Apartment Complex
+image: "images/stormw.jpg"
 type: "post"
 ---
 **California Polytechnic State University, San Luis Obispo**  

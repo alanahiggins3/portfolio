@@ -12,12 +12,31 @@
     
     
     <item>
+      <title>Contact</title>
+      <link>/top/contact/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/top/contact/</guid>
+      <description>Email | alanahiggins3@gmail.com
+LinkedIn | alanahiggins</description>
+    </item>
+    
+    <item>
       <title>How I Built This Website in R Studio</title>
       <link>/top/aboutwebsite/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/top/aboutwebsite/</guid>
-      <description>I created this website in RStudio using the Blogdown and Hugo packages. The code I wrote is available on Github. The theme used for this website is called, &amp;ldquo;Clean White&amp;rdquo; and was written by Huabing Zhao. It is available here</description>
+      <description>I created this website in RStudio using Blogdown and Hugo packages. The code for this theme was written by Huabing Zhao, and is available here. My edits are available on Github.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/top/resume/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/top/resume/</guid>
+      <description></description>
     </item>
     
   </channel>

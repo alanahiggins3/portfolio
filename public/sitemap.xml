@@ -25,7 +25,17 @@
   </url>
   
   <url>
+    <loc>/top/contact/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/top/aboutwebsite/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/top/resume/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
@@ -42,6 +52,11 @@
   
   <url>
     <loc>/post/soilmaps/</loc>
+    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/stormwater/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   

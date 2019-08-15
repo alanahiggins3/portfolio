@@ -9,17 +9,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
   [[params.addtional_menus]]
-  title =  "about"
-  href =  "/top/about/"
-  image = "images/aesas.jpg"
-  
-  [[params.addtional_menus]]
   title =  "resume"
   href =  "/top/resume/"
   
   [[params.addtional_menus]]
   title =  "how i built this website"
   href =  "/top/aboutwebsite/"
+  
+  [[params.addtional_menus]]
+  title = "Contact"
+  href = "/top/contact/"
   
     
 [params]    
