@@ -4,10 +4,15 @@ title = "Alana Higgins"
 theme = "hugo-theme-cleanwhite"
 googleAnalytics = ""
 disqusShortname = ""
-paginate = 8 #frontpage pagination
+paginate = 10 #frontpage pagination
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [menu]
+
+ [[params.addtional_menus]]
+  title =  "Project Catalog"
+  href =  "/top/projectcat/"
+  
   [[params.addtional_menus]]
   title =  "resume"
   href =  "/top/resume/"
@@ -19,11 +24,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [[params.addtional_menus]]
   title = "Contact"
   href = "/top/contact/"
-  
+
     
 [params]    
 header_image = "img/home.jpg"
-slogan = "A digital portfolio of environmental geospatial and remote sensing work."
+slogan = "A digital portfolio of environmental, geospatial, and remote sensing work."
+sidebar_about_description = "Environmental enthusiast, geospatial analyst, and community activist"
+
 
 
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"

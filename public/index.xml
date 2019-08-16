@@ -17,7 +17,7 @@
       <pubDate>Fri, 05 Jul 2019 21:48:51 -0700</pubDate>
       
       <guid>/post/about/</guid>
-      <description>I was born and raised on the island of Oahu, Hawaii. After graduating from high school in 2015, I moved to the Central Coast of California to attend Cal Poly San Luis Obispo. I majored in Environmental Earth and Soil Science with an emphasis in geospatial technologies. Some of my other academic interests included geography, graphic design, and urban planning.
+      <description>I was born and raised on the island of Oahu, Hawaii. After graduating from high school in 2015, I moved to the Central Coast of California to attend California Polytechnic State University, San Luis Obispo. I majored in Environmental Earth and Soil Science with an emphasis in geospatial technologies. Some of my other academic interests included geography, graphic design, and urban planning.
 During my time at Cal Poly, I became part of the San Luis Obispo community.</description>
     </item>
     
@@ -40,8 +40,8 @@ During my second term with the NASA DEVELOP program, I was part of a Water Resou
       <guid>/post/alaskaeco/</guid>
       <description>Jet Propulsion Laboratory, Pasadena CA
 January 2019 to April 2019
-During this ten week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, comuter science, earth science, and data analysis.
-Our project idenitified wetland inundation in the state of Alaska using synthetic arperture radar (SAR) and optical imagery from Sentinel-1 MSI and Landsat 8 OLI satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
+During this ten-week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, computer science, earth science, and data analysis.
+Our project identified wetland inundation in the state of Alaska using synthetic aperture radar (SAR) and optical imagery from Sentinel-1 MSI and Landsat 8 OLI satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
     </item>
     
     <item>
@@ -53,7 +53,30 @@ Our project idenitified wetland inundation in the state of Alaska using syntheti
       <description>California Polytechnic State University, San Luis Obispo
 May 2019
 As an active member in my university&amp;rsquo;s GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
-I was initially given paper maps with polygons drawn by hand deliniating soil type.</description>
+I was initially given paper maps with polygons drawn by hand delineating soil type.</description>
+    </item>
+    
+    <item>
+      <title>Phase I Environmental Site Assessment</title>
+      <link>/post/phasei/</link>
+      <pubDate>Sun, 21 Apr 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/post/phasei/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+April 2019
+A Phase I Environmental Site Assessment is a common evaluation done to identify environmental hazards or liabilities on a property. They are often required for land appraisals, real estate transactions, or building development. Common hazards include leaking gas or septic tanks, contaminated wells, and improperly stored chemicals, as these substances may seep into groundwater basins or public waterways.
+This report was the final project for my Environmental Applications of Soils Science (SSC 562), a graduate level course taken remotely through North Carolina State University.</description>
+    </item>
+    
+    <item>
+      <title>Post-Construction Environmental Assessment</title>
+      <link>/post/construction/</link>
+      <pubDate>Sun, 21 Apr 2019 13:09:13 -0600</pubDate>
+      
+      <guid>/post/construction/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+April 2019
+Construction is a primary source of soil erosion and hydrologic degradation. This report assesses the post-construction environment of a newly built apartment complex by comparing the pre-construction hydrology to post-construction hydrology. Specifically, runoff and peak flow values are calculated to draw conclusions about the impact of anthropogenic disturbance. This report was written as a component of my Soil Erosion and Water Conservation (ERSC 303) course at Cal Poly San Luis Obispo.</description>
     </item>
     
     <item>
@@ -64,19 +87,18 @@ I was initially given paper maps with polygons drawn by hand deliniating soil ty
       <guid>/post/stormwater/</guid>
       <description>California Polytechnic State University, San Luis Obispo
 December 2018
-As an active member in my university&amp;rsquo;s GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
-I was initially given paper maps with polygons drawn by hand deliniating soil type.</description>
+A stormwater management plan is a necessary precaution many construction companies must take to ensure that the new development considers the runoff of natural storms or weather disturbances. In this fictional report done as part of my Soil Erosion and Water Conservation course (ERSC 303) at Cal Poly, I analyzed the infiltration capacity of a stormwater runoff site near university dorms.</description>
     </item>
     
     <item>
-      <title>Lopez Lake Recreation Area Field Work and GIS Consulting</title>
+      <title>Lopez Lake Recreation Area GIS Consulting</title>
       <link>/post/lopezlake/</link>
       <pubDate>Tue, 01 May 2018 13:09:13 -0600</pubDate>
       
       <guid>/post/lopezlake/</guid>
       <description>California Polytechnic State University, San Luis Obispo
 January 2018 to May 2018
-The Lopez Lake Recreation Area is a popular gathering place for outdoor enthusiasts on the Central Coast of California. For this project, a team of nine Cal Poly students, including myself, visited the site to conduct field work and collect GPS coordinates of all campsites and utility features in the park. We utilized the Trible Geo 7x GPS unit and Pathfinder software to collect and process the data.</description>
+The Lopez Lake Recreation Area is a popular gathering place for outdoor enthusiasts on the Central Coast of California. For this project, a team of nine Cal Poly students, including myself, visited the site to conduct field work and collect GPS coordinates of all campsites and utility features in the park. We utilized the Trimble Geo 7x GPS unit and Pathfinder software to collect and process the data.</description>
     </item>
     
     <item>
@@ -87,7 +109,7 @@ The Lopez Lake Recreation Area is a popular gathering place for outdoor enthusia
       <guid>/post/datadrivenpages/</guid>
       <description>California Polytechnic State University, San Luis Obispo
 February 2018
-Urbanized areas are often difficult to represent spatially as cities have high population densities and landuse can change frequently. Data Driven Pages is a useful tool in the ArcMap toolbox that allows users to break up the area of their city page by page. Each page represents one square unit of an entire city grid. By including an inset map, users can gauge where they are within the city for better context.</description>
+Urbanized areas are often difficult to represent spatially as cities have high population densities and land use can change frequently. Data Driven Pages is a useful tool in the ArcMap toolbox that allows users to break up the area of their city page by page. Each page represents one square unit of an entire city grid. By including an inset map, users can gauge where they are within the city for better context.</description>
     </item>
     
     <item>
@@ -106,7 +128,23 @@ LinkedIn | alanahiggins</description>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/top/aboutwebsite/</guid>
-      <description>I created this website in RStudio using Blogdown and Hugo packages. The code for this theme was written by Huabing Zhao, and is available here. My edits are available on Github.</description>
+      <description>I created this website in RStudio using Blogdown and Hugo packages. The code for this theme was written by Huabing Zhao, and is available here. My edits and additions are available on Github. All reports are hosted on the publishing website, Calameo.</description>
+    </item>
+    
+    <item>
+      <title>Project List</title>
+      <link>/top/projectcat/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/top/projectcat/</guid>
+      <description>NASA DEVELOP Belize Water Resources | June to August 2019
+NASA DEVELOP Alaska Ecological Forecasting | January to April 2019
+Freelance Geospatial Consulting for University Professor | May 2019
+[Phase I Environmental Site Assessment | April 2019]()
+Stormwater Runoff Assessment of Cerro Vista Apartment Complex | November 2018
+[Post-Construction Environmental Assessment]() | October 2018
+Lopez Lake Recreation Area GIS Consulting | May 2018
+Utilizing Data Driven Pages for City Zoning | February 2018</description>
     </item>
     
     <item>

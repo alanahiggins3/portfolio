@@ -27,7 +27,23 @@ LinkedIn | alanahiggins</description>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/top/aboutwebsite/</guid>
-      <description>I created this website in RStudio using Blogdown and Hugo packages. The code for this theme was written by Huabing Zhao, and is available here. My edits are available on Github.</description>
+      <description>I created this website in RStudio using Blogdown and Hugo packages. The code for this theme was written by Huabing Zhao, and is available here. My edits and additions are available on Github. All reports are hosted on the publishing website, Calameo.</description>
+    </item>
+    
+    <item>
+      <title>Project List</title>
+      <link>/top/projectcat/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/top/projectcat/</guid>
+      <description>NASA DEVELOP Belize Water Resources | June to August 2019
+NASA DEVELOP Alaska Ecological Forecasting | January to April 2019
+Freelance Geospatial Consulting for University Professor | May 2019
+[Phase I Environmental Site Assessment | April 2019]()
+Stormwater Runoff Assessment of Cerro Vista Apartment Complex | November 2018
+[Post-Construction Environmental Assessment]() | October 2018
+Lopez Lake Recreation Area GIS Consulting | May 2018
+Utilizing Data Driven Pages for City Zoning | February 2018</description>
     </item>
     
     <item>

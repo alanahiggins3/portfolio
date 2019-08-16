@@ -1,14 +1,22 @@
 ---
 date: "2018-11-01T13:09:13-06:00"
 title: Stormwater Runoff Assessment of Cerro Vista Apartment Complex
-image: "images/stormw.jpg"
+subtitle: Determining infiltration rates through field measurements and geostatistical interpolation
+image: "images/runoff.jpg"
 type: "post"
 ---
 **California Polytechnic State University, San Luis Obispo**  
 **December 2018**
 
-As an active member in my university's GIS community, I aided Dr. Christopher Appel of the Natural Resources and Environmental Science Department in creating soil maps for his ongoing research project of soils in the Me Wuk Tribe Ranch. I created three maps visualizing soil groupings, soil pH values, and potential soil vigor.
+A stormwater management plan is a necessary precaution many construction companies must take to ensure that the new development considers the runoff of natural storms or weather disturbances. In this fictional report done as part of my Soil Erosion and Water Conservation course (ERSC 303) at Cal Poly, I analyzed the infiltration capacity of a stormwater runoff site near university dorms. 
 
-I was initially given paper maps with polygons drawn by hand deliniating soil type. Using ArcMap Desktop 10.6, I created a file geodatabase where I digitized the hand-drawn polygons and populated all desired fields. His published work is now completed and I have been cited for my contributions.
+I used a combination of field work and geostatistical analysis to determine infiltration rates. The field measurements required using infiltrometers to measure water flow rates and taking soil samples back to a lab to determine the soil's bulk density. These values were compared to geostatistical analysis done in ESRI ArcMap Desktop. I used the Bayesian Empirical Kriging tool to extract infiltration rates based on slope. In addition to Bayesian Kriging, I also performed a Spline interpolation. 
 
-![](/images/PotentialSoilVigor.png)
+Report preview:  
+
+>![](/images/stormwater1.png)
+![](/images/stormwater2.png)
+![](/images/stormwater3.png)
+
+For the full report click [here.](https://en.calameo.com/read/005999875e20488517e96)  
+Image credit: [fixmistate](http://fixmistate.org/madison-heights-joins-program-to-reduce-stormwater-runoff/)

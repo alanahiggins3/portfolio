@@ -35,6 +35,16 @@
   </url>
   
   <url>
+    <loc>/post/phasei/</loc>
+    <lastmod>2019-04-21T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/construction/</loc>
+    <lastmod>2019-04-21T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/stormwater/</loc>
     <lastmod>2018-11-01T13:09:13-06:00</lastmod>
   </url>
@@ -56,6 +66,11 @@
   
   <url>
     <loc>/top/aboutwebsite/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/top/projectcat/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
