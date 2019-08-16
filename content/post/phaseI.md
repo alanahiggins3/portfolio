@@ -1,7 +1,7 @@
 ---
 date: "2019-04-21T13:09:13-06:00"
 title: Phase I Environmental Site Assessment
-subtitle: A preliminary environmental and groundwater inspection for land appriasal
+subtitle: A preliminary environmental and groundwater inspection for land appraisal
 image: "images/sitepic.jpg"
 type: "post"
 ---

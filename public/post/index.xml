@@ -41,7 +41,7 @@ During my second term with the NASA DEVELOP program, I was part of a Water Resou
       <description>Jet Propulsion Laboratory, Pasadena CA
 January 2019 to April 2019
 During this ten-week internship, I was the project lead in a team of educated young professionals with backgrounds in remote sensing, GIS, computer science, earth science, and data analysis.
-Our project identified wetland inundation in the state of Alaska using synthetic aperture radar (SAR) and optical imagery from Sentinel-1 MSI and Landsat 8 OLI satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
+Our project identified wetland inundation in the state of Alaska using synthetic aperture radar (SAR) and optical imagery from Sentinel-1 C-band SAR and Landsat 8 OLI satellite data. We built on the previous team&amp;rsquo;s SAR Wetland Extent Exploration Tool (SWEET), a Python-based algorithm that detected inundation type based on seasonality and vegetation.</description>
     </item>
     
     <item>
@@ -99,6 +99,32 @@ A stormwater management plan is a necessary precaution many construction compani
       <description>California Polytechnic State University, San Luis Obispo
 January 2018 to May 2018
 The Lopez Lake Recreation Area is a popular gathering place for outdoor enthusiasts on the Central Coast of California. For this project, a team of nine Cal Poly students, including myself, visited the site to conduct field work and collect GPS coordinates of all campsites and utility features in the park. We utilized the Trimble Geo 7x GPS unit and Pathfinder software to collect and process the data.</description>
+    </item>
+    
+    <item>
+      <title>Project Lot Slope and Aspect Assessment</title>
+      <link>/post/projectlot/</link>
+      <pubDate>Wed, 21 Mar 2018 13:09:13 -0600</pubDate>
+      
+      <guid>/post/projectlot/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+March 2018
+This report was created as part of a midterm exam in my Applied GIS (NR 418) course at Cal Poly. The main objective was to determine the areas within city project lots that fit certain criteria. To do so, I used ArcMap ModelBuilder to identify sections of land that had specific aspect and slope values.
+Report preview:
+  Image credit: King&amp;rsquo;s College London</description>
+    </item>
+    
+    <item>
+      <title>Species X Suitability Map</title>
+      <link>/post/speciesx/</link>
+      <pubDate>Wed, 28 Feb 2018 13:09:13 -0600</pubDate>
+      
+      <guid>/post/speciesx/</guid>
+      <description>California Polytechnic State University, San Luis Obispo
+February 2018
+This report was created as part of a midterm exam in my Applied GIS (NR 418) course at Cal Poly. The objective was to find a suitable habitat for a fictional species that could only thrive in highly specific conditions. To do so, I used the ArcMap ModelBuilder to locate possible habitats within the Poly Canyon Watershed.
+Report preview:
+  Image credit: David Oppenheimer</description>
     </item>
     
     <item>
