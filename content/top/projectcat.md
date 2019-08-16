@@ -1,6 +1,6 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
-title: Project List
+title: Project Catalog
 ---
 
 [**NASA DEVELOP Belize Water Resources**](https://alanahiggins.netlify.com/post/belizewater/) | June to August 2019  
@@ -10,6 +10,6 @@ title: Project List
 [**Stormwater Runoff Assessment of Cerro Vista Apartment Complex**](https://alanahiggins.netlify.com/post/stormwater/) | November 2018  
 [**Post-Construction Environmental Assessment**](https://alanahiggins.netlify.com/post/construction/) | October 2018  
 [**Lopez Lake Recreation Area GIS Consulting**](https://alanahiggins.netlify.com/post/lopezlake/) | May 2018  
-[**Project Lot Slope and Aspect Assessment**]() | March 2018  
-[**Species X Suitability Map**]() | February 2018  
+[**Project Lot Slope and Aspect Assessment**](https://alanahiggins.netlify.com/post/projectlot/) | March 2018  
+[**Species X Suitability Map**](https://alanahiggins.netlify.com/post/speciesx/) | February 2018  
 [**Utilizing Data Driven Pages for City Zoning**](https://alanahiggins.netlify.com/post/datadrivenpages/) | February 2018
