@@ -14,6 +14,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   href =  "/top/projectcat/"
   
   [[params.addtional_menus]]
+  title =  "CV"
+  href =  "/top/cv/"
+  
+  [[params.addtional_menus]]
   title =  "how i built this website"
   href =  "/top/aboutwebsite/"
   

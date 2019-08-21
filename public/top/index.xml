@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>CV</title>
+      <link>/top/cv/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/top/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/top/contact/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
@@ -44,15 +53,6 @@ Stormwater Runoff Assessment of Cerro Vista Apartment Complex | November 2018
 Post-Construction Environmental Assessment | October 2018
 Lopez Lake Recreation Area GIS Consulting | May 2018
 Project Lot Slope and Aspect Assessment | March 2018</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>/top/resume/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/top/resume/</guid>
-      <description></description>
     </item>
     
   </channel>
